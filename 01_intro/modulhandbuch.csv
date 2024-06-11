@@ -1,0 +1,1130 @@
+Page,Text
+1," 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+2022  
+ 
+PHILOSOPHISCHE 
+FAKULTÄT  
+ 
+UNIVERSITÄT ZU KÖLN  
+ 
+DEKANAT  
+MODULHANDBUCH  
+INFORMATIONSVERARBEITUNG  
+EIN-FACH -MASTER  OF ARTS  
+ 
+NACH DER PRÜFUNGSORDNUNG FÜR DAS MASTERSTUDIUM AN DER PHILOSOPHISCHEN 
+FAKULTÄT  
+VOM 16.08.2022  
+ ACHTUNG ! Für im 
+Sommersemester 2022 
+bereits eingeschriebene 
+Studierende gilt 
+ausschließlich die  hier 
+hinterlegte F assung:  
+https://phil -fak.uni -
+koeln.de/sites/phil -
+fak/lehre_studium/master/
+modulhandbuecher/2015M
+A1FInfo_AlteFassung.pdf  "
+2,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ ii   
+  
+HERAUSGEBER:  Universität zu Köln  
+Dekanat der Philosophischen Fakultät  
+REDAKTION:  Historisch -Kulturwissenschaftliche Informationsverarbeitung  
+Institut für Linguistik – Sprachliche Informationsverarbeitung  
+ADRESSE:   
+Albertus -Magnus -Platz  
+50923 Köln  
+E-MAIL  Informationsverarbeitung -studieren@uni -koeln.de  
+STAND  15.11.2022  "
+3,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ iii  Kontaktpersonen  
+ 
+Studiendekan/in:  Prof. Dr. Andreas Michel  
+ Dekanat der Philosophischen Fakultät der Universität zu Köln  
+ Telefon +49 221 470 -6150  
+ studiendekan -philfak@uni -koeln.de  
+Studiengangsverantwortliche/r:  Prof. Dr. Øyvind Eide  
+ Institut für Digital Humanities  
+ Telefon +49 221 470 1752  
+ oeide @ uni-koeln.de  
+Prüfungsausschussvorsitzende/r:  Prof. Dr. Andreas Michel  
+ Dekanat der Philosophischen Fakultät der Universität zu Köln  
+ Telefon +49 221 470 -6150  
+ studiendekan -philfak@uni -koeln.de  
+Fachstudienberater/in:  Dr. Jürgen Hermes  
+ Institut für Linguistik – Sprachliche Informationsverarbeitung  
+ Telefon +49 221 470 4430  
+ hermesj@uni -koeln.de  
+  "
+4,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ iv  Legende  
+ 
+ 
+  AM  Aufbaumodul  
+BM Basismodul  
+EM Ergänzungsmodul  
+GeR Gemeinsamer europäischer Referenzrahmen  
+K Kontaktzeit (= Präsenzzeit in LV)  
+LV Lehrveranstaltung  
+LP Leistungspunkt(engl.: CP)  
+P Pflichtveranstaltung  
+PO Prüfungsordnung  
+SM Schwerpunktmodul  
+SoSe  Sommersemester  
+SSt Selbststudium  
+SWS  Semesterwochenstunde  
+WiSe  Wintersemester  
+WP Wahlpflichtveranstaltung  
+WL Workload = Arbeitsaufwand  "
+5,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ v  Inhaltsverzeichnis  
+ 
+KONTAKTPERSONEN  ................................ ................................ .............................  III 
+LEGENDE  ................................ ................................ ................................ .................  IV 
+1 DAS STUDIENFACH INFO RMATIONSVERARBEITUNG  ................................ .. 1 
+1.1 Inhalte, Studienziele und Voraussetzungen  ................................ ............................  1 
+1.2 Studienaufbau und -abfolge  ................................ ................................ ....................  2 
+1.3 LP-Gesamtübersicht  ................................ ................................ ...............................  2 
+1.4 Semesterbezogene LP -Übersicht  ................................ ................................ ............  3 
+1.5 Berechnung der Fachnote  ................................ ................................ .......................  3 
+2 MODULBESCHREIBUNGEN UND MODULTABELLEN  ................................ .... 3 
+2.1 Aufbaumodule  ................................ ................................ ................................ .........  4 
+2.2 Schwerpunktmodule ................................ ................................ ................................  6 
+2.3 Ergä nzungsmodule  ................................ ................................ ................................ . 9 
+2.4 Masterarbeit  ................................ ................................ ................................ ........... 18 
+3 STUDIENHILFEN  ................................ ................................ ...............................  21 
+3.1 Musterstudienplan für das Fach MA Informationsverarbeitung*  ............................. 21 
+3.2 Fach - und Prüfungsberatung  ................................ ................................ .................. 22 
+3.3 Weitere Informations - und Beratungsangebote  ................................ ...................... 22 "
+6,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 1  1 Das Studienfach Informationsverarbeitung  
+Der interdisziplinär angelegte Studiengang Informationsverarbeitung hat die 
+Entwicklung und Verwendung informationsverarbeitender Systeme im Kontext 
+geisteswissenschaftlicher Fragestellungen zum Gegenstand. Die 
+Studienschwerpunkte liegen in den Bereichen d er Sprachlichen  sowie der Historisch -
+Kulturwissenschaftlichen Informationsverarbeitung . Als angewandte Informatik der 
+Geisteswissenschaften setzt die Informationsverarbeitung maschinelle Systeme zur 
+Verarbeitung und Bearbeitung von Daten und Theorien der a llgemeinen und 
+einzelsprachlichen Sprachwissenschaften, der literarischen Philologien, der 
+historischen Wissenschaften, der Sprachverwendung und de r Kommunikation ein. 
+Gegenstand  ist die Darstellung, Verwendung und Verarbeitung sprachlic her und 
+nichtsprach licher Daten . 
+ 
+1.1 Inhalte,  Studienziele und Voraussetzungen  
+Der Masterstudiengang Informationsverarbeitung schafft die Voraussetzung für eine 
+Promotion oder die außeruniversitäre Tätigkeit  in den Berufsfeldern, für die das 
+Bachelorstudium aus der Perspekt ive der konkreten Anwendungen ausgebildet hat. 
+Im Masterstudiengang Informationsverarbeitung erfolgt eine Vertiefung der bereits zu 
+Studienbeginn nachgewiesenen softwaretechnologischen Kenntnisse und ihre 
+Anwendung auf die  beiden fachliche n Schwerpunkte (Sprachliche und  Historisch -
+Kulturwissenschaftliche Informationsverarb eitung) in Form von Projekten.  
+Als angewandte Informatik der Geisteswissenschaften befasst sich der Studiengang 
+mit den Fragestellungen, die sich aus dem Einsatz informationsverarbeitend er 
+Systeme in den geisteswissenschaftlichen Disziplinen ergeben. In der Masterarbeit 
+werden Fragestellungen aus den geisteswissenschaftlichen Fächern analysiert, um 
+auf diese Weise die Grundlagen für Lösungen mit informationstechn ologischen  
+Systemen abzule iten. Die Anwendungen bilden den gesamten Bereich der 
+Geisteswissenschaften ab und behandeln Probleme der Computerlinguistik, der 
+Textprozessierung, der Klassifikation im Zusammenhang mit Fragestellungen aus dem 
+Bereich des maschinellen Lernens und der K ünstlichen Intelligenz , der Generierung 
+fortgeschrittener 3D Modelle, der Behandlung philologischer Probleme im Rahmen der 
+Diskussion von Markupsystemen sowie der Lösung raumbezogener Fragestellungen 
+auf der Basis von geographischen Informationssystemen.  
+Um diesem umfassenden Ansatz  gerecht zu werden, bieten die beiden Professuren, 
+die mit der Durchführung des Studienganges betraut sind, Spezialisierungsmodule an, 
+mit denen die Masterarbeit verbunden wird. Im Schwerpunkt Sprachliche 
+Informationsverarbeitung s tehen die Probleme der Verarbeitung natürlicher 
+Sprache nach de m Stand der aktuellen Forschung  bzw. deren Lösung mit 
+informationstechnologischen Mitteln im Vordergrund. Im Schwerpunkt Hist orisch -
+Kulturwissenschaftliche I nformationsverarbeitung werden Anwend ungsfälle v or allem 
+in den objektbezogenen  bzw. in den historischen Fächern gefunden.  "
+7,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 2  Die in den Spezialisierungsmodulen vermittelten Techniken sind sehr variabel: Der 
+Umgang mit allgemeinen komponentenorientierten Architekturen wird ebenso 
+vermittelt wie  spezialisierte Formen der Wissensdarstellung und der visuellen 
+Programmierung, sei es zur Visualisierung von auf andere r Weise gewonnener 
+Ergebnisse, sei es zur unmittelbaren Untersuchung visueller Probleme. Allen 
+vermittelten Ansätzen gemeinsam ist die V erbindung der abstrakten Fähigkeit zur 
+Formalisierung von Fragestellungen (Knowledge) mit der Fähigkeit zur tatsächlichen 
+praktischen Umsetzung (Skills).  
+ 
+Voraussetzungen:  
+Es müssen Englischkenntnisse auf der Niveaustufe B1 des Gemeinsamen 
+Europäischen Ref erenzrahmens (GeR) nachgewiesen werden.  Der akademische 
+Grad ""Bachelor of Arts"" oder ein einschlägiger, mindestens gleichwertiger und 
+anrechenbarer Abschluss soll in den Bereichen Informationsverarbeitung, 
+Computerlinguistik, Texttechnologie, Computerphilo logie, Informatik,  
+Medieninformatik  erworben worden sein , sowie  mindestens  60 einschlägige LP 
+aufweisen . Dabei muss die folgende  Bedingung erfüllt werden : 
+Der vorausgesetzte Bachelorstudiengang muss Kenntnisse der Softwaretechnologie 
+vermitteln, die zur selbständigen Programmierung in einer  objektorientierten 
+Programmier sprache befähigen. Alternativ dazu können diese Kenntnisse auf einem 
+anderen Wege als durch den Bachelorstudiengang erworben worden sein.  Dazu 
+müssen den Fachberatern aussagekräftige Unter lagen über die Veranstaltungen 
+vorgelegt werden, in denen diese Kenntnisse erworben wurden.  
+ 
+1.2 Studienaufbau und -abfolge  
+Im Masterstudiengang Informationsverarbeitung sind Leistungen aus den zwei 
+Aufbau - sowie  den zwei Spezialisierungsmodulen  obligator isch zu erbringen. 
+Zusätzlich muss ein Praktikum  oder ein Auslandsaufenthalt  absolviert werden (EM 7 -
+8) und  es müssen  zwei der anderen sechs Ergänzungsmodule belegt werden (EM 1 -
+6). 
+ 
+1.3 LP-Gesamtübersicht  
+Der Kernbereich des M asters tudiengangs Information sverarbeitung umfasst 54 LP. 
+Dazu kommen 36 LP aus dem Ergänzungsbereich sowie 30 LP für die Anfertigung 
+einer Masterarbeit.  
+ 
+LP-Gesamtübersicht  
+Fachstudium   54 LP  
+Ergänzungsbereich   36 LP  
+Mastera rbeit   30 LP  
+Gesamt   120 LP  "
+8,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 3  1.4 Semesterbezogene LP-Übersicht  
+ 
+ 
+1.5 Berechnung der Fachnote  
+In die Fachnote  fließen die beiden Noten aus den Abschlussprüfungen der 
+Aufbaumodule zu je 20%, die Noten aus den beiden Spezialisie rungsmodulen zu je 
+30% ein. Noten aus den Ergänzungsmodulen gehen nicht in die Fachnote ein.  
+ 
+2 Modulbeschreibungen und Modultabellen  
+Hinweis : Gemäß § 15 Abs. 2 der PO sind unter „Studienleistungen“ in der Regel 
+folgende Formate vorgesehen: Elektronische Lernstandserhebungen, Essays, 
+Exercises, Hausaufgaben, Kurzreferate, Protokolle, Rezensionen, Testklausuren, 
+Thesenpapiere und ähnliche Format e. 
+Hinweis: Gemäß § 9 Abs. 4 der PO sind Teilnahmeverpflichtungen in 
+Lehrveranstaltungen zu begründen. Begründungen:  
+Für die mit einer Teilnahmepflicht gekennzeichneten Praktika gilt: Die Verpflichtung 
+zur nachweisbaren regelmäßigen Teilnahme an Modulen od er Lehrveranstaltungen 
+ergibt sich aus der Notwendigkeit der Untersuchung inhaltlich relevanter Gegenstände 
+und Zusammenhänge in Situationen und des orts - und situationsabhängigen Erwerbs 
+praxis - beziehungsweise berufsrelevanter Fähigkeiten und Fertigkeite n unter 
+Einbezug außeruniversitärer Lernorte.  LP-Übersicht  
+Sem.  Modul  K SSt LP 
+1. AM1: Einführung in die Sprachliche Informationsverarbeitung  60 h 210 h 9 LP 
+2.  AM 2: Einführung in die Historisch -Kulturwissenschaftliche 
+Informationsverarbeitung  60 h 210 h  9 LP 
+1.-3. SM 1: Verarbeitung von Textdaten  90 h 450 h  18 LP  
+1.-3. SM 2: Verarbeitung mehrdimensionaler Daten  90 h 450 h  18 LP  
+1.-3. EM 1: Künstliche Intelligenz  90 h 270 h  
+24 LP  1.-3. EM 2: Digital Humanities  90 h 270 h  
+1.-3. EM 3: Visuelle Programmierung  90 h 270 h  
+1.-3. EM 4: Informatik I  90 h 270 h  
+1.-3. EM 5: Archäoinformatik  90 h 270 h  
+1.-3. EM 6: Empirische Methoden  90 h 270 h  
+1.-3. EM 7: Forschungspraktikum   360 h  12 LP  
+1.-3. EM8: Mobilität   360 h  "
+9,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 4  Für alle Projekte und Projektseminare  gilt: Die Verpflichtung zur nachweisbaren 
+regelmäßigen Teilnahme an Modulen oder Lehrveranstaltungen ergibt sich aus der 
+didaktischen Gestaltung der Lehrveranstaltung, die zur Erreichung des Lernziels 
+dauerhaft partizipative, interaktive und kooperative Lehr - und Lernformate sowie die 
+Reflexion der Inhalte und Ergebnisse unter Anleitung vorsieht. Eine nachweisbare 
+regelmäßige Teilnahme ist dann gegeben, wenn die Fehlzeiten 2 0% nicht 
+überschreiten.  
+ 
+2.1 Aufbaumodule  
+Die beiden obligatorischen Aufbaumodule erweitern die softwaretechnologischen 
+Kenntnisse, welche die Studierenden bei der Aufnahme in den Masterstudiengang 
+bereits nachgewiesen haben.  
+ 
+Aufbaumodul 1: Einführung in  die Sprachliche Informationsverarbeitung  
+Kennnummer  Workload  Leistungs -
+punkte  Studien -
+semester  Häufigkeit des 
+Angebots  Dauer  
+4130BMXBM1  270 h  9 LP 1. Semester  WiSe  1 Semester  
+1 Lehrveranstaltungen  
+a) Vorlesung   
+b) Übung  
+c) Modulprüfung  (Schriftlich:  Klausur ) Kontaktzeit  
+30 h 
+30 h Selbststudium  
+60 h 
+60 h                   
+90 h  
+2 Ziele des Moduls und zu erwerbende Kompetenzen  
+Die Studierenden haben einen Überblick über aktuelle technische, konzeptionelle, methodische und 
+theoretische Herausforderungen in der Sprachverarbeitung. Sie kennen die wesentlichen 
+Modellierungsansätze im Bereich maschineller Lernverfahren und können sie zielgerichtet einsetzen.  
+3 Inhalte des Moduls  
+Die Verarbeitung von Textdaten stellt algorithmische Verfahren immer noch vor Herausforderungen. In 
+der Vorlesung werden die wesentlichen Methoden, die in der Sprachverarbeitung verwendet werden, 
+zusammen mit ihren Annahmen, Voraussetzungen und Verwendungs weisen besprochen. Dabei 
+handelt es sich um Verfahren des maschinellen Lernens, derzeit vor allem neuronale Netze, 
+Entscheidungsbäume sowie Support Vector Machines. Thema der Vorlesung ist außerdem der 
+Umgang mit großen Datenmengen, die regelmäßig zum Trai ning eingesetzt werden, sowie die 
+Beschaffung und Aufbereitung von Referenzdaten. In der praktischen Übung werden die theoretisch 
+behandelten Methoden praktisch umgesetzt. Dazu führen die Studierenden eigene Experimente durch, 
+wofür sie selbständig program mieren. Bestandteil der Übung ist ebenfalls der Umgang mit gängigen 
+Bibliotheken aus der Sprachverarbeitung, derzeit vor allem tensorflow und scikit -learn in der 
+Programmiersprache Python.  
+ 
+4 Lehr - und Lern formen  
+Vorlesung , Übung  
+5 Modulvoraussetzungen  
+Keine  "
+10,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 5   6 Form der Modulprüfung  
+Schriftliche Prüfung: Klausur  (90 Minuten ) 
+7 Voraussetzungen für die Vergabe von Leistungspunkten  
+Erbringung von Studienleistungen , Bestehen der Modulprüfung.  
+8 Verwendung des Moduls (in anderen Studiengängen)  
+Dieses Modul wird auch a) als Pflichtmodul im Verbundm asters tudiengang Medienwissenschaft, 
+Wahlpflichtfach Medieninformatik und b) als Wahlpflichtmodul im MSc Informatik angeboten.  
+9 Stellenwert der Modulnote für die Fachn ote 
+9/54 
+10 Modulbeauftragte/r  
+Professur für Sprachliche Informationsverarbeitung  
+11 Sonstige Informationen  
+Aufbaumodul  2: Einführung in die Historisch -Kulturwissenschaftliche 
+Informationsverarbeitung  
+Kennnummer  Workload  Leistungs -
+punkte  Studien -
+semester  Häufigkeit des 
+Angebots  Dauer  
+4130BMXBM2  270 h 9 LP 2. SoSe  1 Semester  
+1 Lehrveranstaltungen  
+a) Vorlesung  
+b) Übung  
+c) Modulprüfung  (Schriftlich : Klausur ) Kontaktzeit  
+30 h 
+30 h Selbststudium  
+60 h 
+60 h 
+90 h  
+2 Ziele des Moduls und zu erwerbende Kompetenzen  
+Mit erfolgreichem Abschluss des Moduls sind die Studierenden in der Lage, die Grundkonzepte der 
+Standardisierung und Modellierung in den Digital Humanities auf ausgewählte Problemfelder 
+anzuwenden.  
+3 Inhalte des Moduls  
+Die Vielfalt, die Komplexität und der Umfang der zu verarbeitenden Daten aus der Historisch -
+Kulturwissenschaftlichen Informationsverarbeitung erfordern den Einsatz moderner Methoden des 
+Softwareengineering. Ressourcen müssen effizient eingesetzt werden. So ftwareseitig werden 
+produktive Lösungen durch Entwurfsmuster und Komponententechnologien erzielt. Voraussetzung für 
+effiziente Lösungen sind vertiefte Kenntnisse der Modellierung, der Algorithmik und die Fähigkeit zur 
+Komplexitätsanalyse.  
+Modellierung als Grundlage Datenrepräsentation, Systementwicklung und Kulturerbedokumentation ist 
+zentral und wird mit praktischen Erfahrungen aus der Arbeit als Entwickler*in kontextualisiert. Zentral 
+in der Vorlesung sind explizite Verbindungen zwischen digitaler Modelle riung und geistes - und 
+kulturwissenschaftlichen Begrifflichkeiten auf unterschiedlichen Ebenen der Standardisierung von 
+Ontologien, Datens, Objektmodellierungen und Prozessdokumentation. Auch Modellierung in 
+fachfremden Wissenschaften (z.B. Natur - und Tech nowissenschaften) und 
+wissenschaftsphilosophischen Analysen werden als kontextueller Bestandteil der Modellierung in den "
+11,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 6   
+2.2 Schwerpunktmodule  
+In den Schwerpunktmodulen werden die Studierenden befähigt , umfangreichere 
+eigenständige Softwareprojekte über einen längeren Zeitraum betreut zu entwickeln , 
+um diese am Ende des Entwicklungszyklus einem qualifizierten Publikum (bestehend 
+aus den Kommilito nInnen , den betreffenden Lehrstuhlleitenden  und deren 
+wissenschaf tlichen Mitarbeiter Innen ) vorzustellen.  
+Die Studierenden müssen (über die zwei Studienjahre verteilt) zwei Projekte aus 
+unterschiedlichen , den beiden Schwerpunkten der Informationsverarbeitun g 
+zugeordneten,  Anwendun gsbereichen durchführen. Dies gewährleistet eine fachlich 
+breit abgesicherte Qualifikation im Bereich der geisteswissenschaftlichen 
+Fachinformatik.  Digital Humanities adressiert.  
+Aufbauend auf Modellierung werden fortgeschrittene Verfahren zur Verarbeitung von unterschiedlichen 
+Date ntypen auf unterschiedlichen Plattformen diskutiert. Auf einer weiteren Ebene stehen die Fragen 
+der Wissensrepräsentation und der Semantic Technologies und ihre Wechselbeziehungen zu neueren 
+Systemen für Datenbearbeitung im Vordergrund. Die Visualisierung und visuelle Denken wird durch 
+klassiche Bildverarbeitung kontextualisiert und mit der 3D -Programmierung, der Spielprogrammierung 
+und mit virtual und augmented Reality -Systemen und mobile Computing verbunden.  
+Ausgewählte Themengebiete der Vorlesung werden in der Übung durch praktische Projekte und 
+Diskussionen bearbeitet.   
+4 Lehr - und Lern formen  
+Vorlesung, Übung  
+5 Modulvoraussetzungen  
+keine   
+6 Form der Modulprüfung  
+Schriftliche Prüfung:  Klausur (90 Minuten)  
+7 Voraussetzungen für die Vergabe von Leistungspunkten  
+Erbringung von Studienleistungen , Bestehen der Modulprüfung.  
+8 Verwendung des Moduls (in anderen Studiengängen)  
+Dieses Modul wird auch a) als Pflichtmodul im Verbundmasterstudiengang Medienwissenschaft, 
+Wahlpflichtfach Medieninformatik u nd b) als Wahlpflichtmodul des MA Informatik angeboten.  
+9 Stellenwert der Modulnote für die Fachn ote 
+9/54 
+10 Modulbeauftragte/r  
+Professur für Historisch -Kulturwissenschaftliche Informationsverarbeitung  
+11 Sonstige Informationen  
+Schwerpunktmodul  1: Verarbeitung von Textdaten  
+Kennnummer  Workload  Leistungs -
+punkte  Studien -
+semester  Häufigkeit des 
+Angebots  Dauer  "
+12,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 7  4130BMFSM1  540 h 18 LP 1.-3. WiSe  2 Semester  
+1 Lehrveranstaltungen  
+a) Hauptseminar –Maschinelle 
+Sprachverarbeitung (WiSe)  
+b) Übung  – Implementation komplexer 
+Systeme  
+c) Kolloquium  – Probleme der Maschinellen 
+Sprachverarbeitung (SoSe)  
+d) Modulprüfung  (kombiniert)  Kontaktzeit  
+30 h 
+ 
+30 h 
+ 
+30 h Selbststudium  
+60 h 
+ 
+60 h 
+ 
+60 h 
+270 h  
+2 Ziele des Moduls und zu erwerbende Kompetenzen  
+Im Modul werden formale Kenntnisse vertieft und dabei Kompetenzen im Bereich der 
+textwissenschaftlich ausgerichteten Digital Humanities erworben:  
+ Eine selbständige Programmierlösung zu einer gestellten Aufgabe aus dem Bereich der 
+Prozessierung textueller Daten anzufertigen.  
+ Diese Lösung innerhalb von Kleingruppen zu diskutieren und anschlussfähig zu halten.  
+ Das angefertigte Werk geltenden Richtlinien folgend zu dokumentieren.  
+ Die Arbeit gegenüber einem Fachpublikum vorzustellen und zu verteidigen.  
+3 Inhalte des Moduls  
+Dieses forschungsorientierte Modul beinhaltet die Interaktion von textorientierten, geistes - oder 
+sozialwissenschaftlichen Fragestellungen und computerlinguistischen Umsetzungen. Aus diesem 
+Spannungsverhältnis ergeben sich Dynamiken, di e sowohl das Anwendungsfeld als auch die 
+anwendungsorientierte Informatik und Computerlinguistik befruchten. Daran schließt sich über die 
+textwissenschaftliche Fundierung hinaus auch die wissenschaftstheoretisch fundierte Reflexion über 
+die Möglichkeiten a lgorithmischer und computerlinguistischer Erkenntnis an. Der Mehrwert der 
+computerlinguistischen Umsetzungen liegt im Einsatz informationstechnologischer Systeme zur 
+Gewinnung und Sicherung wissenschaftlicher Erkenntnisse und daraus folgender praktischer 
+Anwendungen. Informationstechnologische Systeme werden in diesem Zusammenhang verstärkt zur 
+Analyse großer Datenmengen, für Simulationen und für die Interpretation quantitativer Ergebnisse 
+eingesetzt.  
+4 Lehr - und Lern formen  
+Seminar , Übung , Kolloquium  
+5 Modulvoraussetzungen  
+Keine 
+6 Form der Modulprüfung  
+Kombinierte Prüfung : Ausarbeitung einer Softwarelösung inkl. Dokumentation mit begleitender und 
+abschließender Präsentation.  
+7 Voraussetzungen für die Vergabe von Leistungspunkten  
+Erbringung von Studienleistungen , Bestehen der Modulprüfung.  
+8 Verwendung des Moduls (in anderen Studiengängen)  
+Teile des Moduls werden auch in den Masterstudiengängen Linguistik – Computerlinguistik und 
+Informatik angeboten.  "
+13,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 8   9 Stellenwert der Modulnote für die Fachn ote 
+18/54  
+10 Modulbeauftragte/r  
+Professur für Sprachliche Informationsverarbeitung  
+11 Sonstige Informationen  
+Schwerpunktmodul  2: Verarbeitung mehrdimensionaler Daten  
+Kennnummer  Workload  Leistungs -
+punkte  Studien -
+semester  Häufigkeit des 
+Angebots  Dauer  
+4130BMXSM2  540 h  18 LP  1-3 WiSe  2 Semester  
+1 Lehrveranstaltungen  
+a) Hauptseminar  - Digital Humanities und 
+Informatik der Geisteswissenschaften  (WiSe ) 
+b) Übung  - Anwendungstechnologien  
+c) Kolloquium  - Aktuelle Literatur zu den 
+Digital Humanities  (SoSe ) 
+d) Modulprüfung  (kombiniert)  Kontaktzeit  
+30 h 
+30 h 
+30 h Selbststudium  
+60 h 
+60 h 
+60 h 
+270 h  
+2 Ziele des Moduls und zu erwerbende Kompetenzen  
+Im Modul werden formale Kenntnisse vertieft und dabei Kompetenzen im Bereich der 
+objektwissenschaftlich ausgerichteten Digital Humanities erworben:  
+ eine selbständige Programmierlösung zu einer gestellten Aufgabe aus dem Bereich der 
+Prozessierung  mehrdimensionaler Daten anzufertigen , 
+ diese innerhalb von Kleingruppen zu diskutieren und anschlussfähig zu halten , 
+ das angefertigte Werk geltenden Richtlinien folgend zu dokumentieren , 
+ ihre Arbeit gegenüber einem Fachpublikum vorzustellen und zu verteidi gen. 
+3 Inhalte des Moduls  
+Dieses Modul führt an einem ausgedehnten Beispiel in die Formalisierung von Fragestellungen einer 
+inhaltlichen Disziplin und die Umsetzung dieser Formalisierung in eine anwendungsreife Lösung ein. 
+Das Gewicht liegt dabei auf dem  Prozess der Formalisierung; für den Nachweis der Anwendungsreife 
+können daher sowohl eigene Softwaremodule als auch Anwendungssysteme herangezogen werden.  
+Das Modul behandelt mit wechselnden Schwerpunkten sowohl allgemeine methodische Teilgebiete – 
+etwa d ie unscharfe Logik / unscharfe Programmierung, die Theorie von Markup - oder me hrschichtigen 
+Annotationssystemen, Konzepte der Gamification – als auch konkrete Technologien wie noSQL 
+Datenbanken, Game Engines und mobiledevices.  
+Das Kolloquium gibt einen Über blick über ein allgemeines Konzept, das sich zur Umsetzung 
+fachspezifischer Fragestellungen eignet.  
+Im Hauptseminar werden die Teilnehmer Innen zunächst durch Kurzreferate in die Probleme einer der 
+geisteswissenschaftlichen Disziplinen eingeführt, auf die die allgemeinen Konzepte angewendet 
+werden können. In einem weiteren Kurzreferat wird die Anwendbarkeit eines derartigen Konzepts auf 
+die herausgearbeiteten Fragestellungen behandelt. Schließlich wird an einem abgegrenzten Problem "
+14,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 9   
+2.3 Ergänzungsmodule   
+Die Ergänzungsmodule decken ein weites Spektrum an Fachbereichen ab. Sie dienen 
+den Studierenden sowohl dazu, sich hinsichtlich der im Studiengang erworbenen 
+Kompetenzen breiter aufzustellen, wie auch, sich in selbst ausgewählten Gebieten 
+weiter zu spezialisieren . Die Ergänzungsmodule können prinzipiell frei kombiniert 
+werden. Sie dienen zwei gegenläufigen Zwecken: Einerseits soll erreicht werden, dass 
+die Studierenden ihren Blick über die in den Schwerpunktmodulen intensiv 
+bearbeiteten Themen hinaus  richten; andererseits sollen die Studierenden bei der 
+Vorbereitung ihres Themas für die Masterarbeit unterstützt werden. Dazu findet zu 
+Studienbeginn – und im Rahmen der Hauptseminare der beiden Schwerpunktmodule 
+– eine intensive persönliche Beratung stat t. 
+Ist die Zulassung zum Artes Research Master erfolgt, werden die dort erwarteten 
+allgemeinen methodischen Veranstaltungen an Stelle eines der drei 
+Ergänzungsmodule angerechnet.  die praktische Umsetzung,  in der Regel unter Heranziehung eines geeigneten Anwendungssystems, 
+demonstriert.  
+Die Übung führt, je nach gewähltem Technologiebereich, in die praktische Handhabung notwendiger 
+Verfahren oder Tools ein. Dies schließt die Implementation geeigneter Kompone nten ein.  
+4 Lehr - und Lern formen  
+Seminar , Übung , Kolloquium  
+5 Modulvoraussetzungen  
+Keine  
+6 Form der Modulprüfung  
+Kombinierte  Prüfung : Ausarbeitung einer Softwarelösung inkl. Dokumentation mit begleitender und 
+abschließender Präsentation.  
+7 Voraussetzungen für die Vergabe von Leistungspunkten  
+Erbringung von Studienleistungen , Bestehen der Modulprüfung.  
+8 Verwendung des Moduls (in anderen Studiengängen)  
+Dieses Modul wird auch im Verbundm asters tudiengang Medienwissenschaft, Wahlpflichtfach 
+Medieninformatik  sowie im MSc Informatik  angeboten.  
+9 Stellenwert der Modulnote für die Fachn ote 
+18/54  
+10 Modulbeauftragte/r  
+Professur für Historisch -Kulturwissenschaftliche Informationsverarbeitung  
+11 Sonstige Informationen  
+Ergänzungsmodul  1: Künstliche Intelligenz  
+Kennnummer  Workload  Leistungs -
+punkte  Studien -
+semester  Häufigkeit des 
+Angebots  Dauer  "
+15,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 10   4130BMFEM1 360 h  12 LP  1.-3. WiSe  1 Semester  
+1 Lehrveranstaltungen  
+a) Proseminar  Künstliche Intelligenz I  
+b) Proseminar  Künstliche Intelligenz II  
+c) Übung  Anwendungen von KI -Konzepten  
+d) Modulprüfung  (Mündlich: Referat ) Kontaktzeit  
+30 h 
+30 h 
+30 h Selbststudium  
+60 h 
+60 h 
+60 h 
+90 h  
+2 Ziele des Moduls und zu erwerbende Kompetenzen  
+Die Studierenden erlangen einen Überblick über aktuelle Techniken und Algorithmen aus dem Bereich 
+der Künstlichen Intelligenz (KI), wodurch sie die Befähigung erwerben, aktuelle Ansätze und 
+Forschungsfragestellungen im Bereich der maschinellen Sprachverarb eitung im übergeordneten 
+Forschungsfeld der KI einzuordnen. Die Teilnehmer Innen  entwerfen unter Anleitung ein kleineres 
+Programmierprojekt und setzen dieses in Gruppenarbeit um. Dadurch werden organisatorische 
+Fähigkeiten (Planung, Strukturierung) und die wissenschaftl iche Zusammenarbeit in Teams geübt.  
+3 Inhalte des Moduls  
+Das Modul bietet eine Einführung in Entwicklung, Probleme und grundlegende Verfahren der KI. Der 
+erste Teil des Seminars gibt eine Einführung in den Gegenstand und die Geschichte der K I, vermittelt 
+die Grundlagen der Wissensrepräsentation und führt in die deklarative Programmiersprache Prolog ein. 
+Im zweiten Teil werden die grundlegenden Techniken der KI (u.a. Problemlösung, Heuristik, 
+Sprachverarbeitung, Neurocomputing) behandelt und i n Referaten der Teilnehmer Innen  vertieft.  
+4 Lehr - und Lern formen  
+Semina r, Übung  
+5 Modulvoraussetzungen  
+Keine  
+6 Form der Modulprüfung  
+ Mündliche Prüfung: Referat (30 Min) mit Thesenpapier  
+7 Voraussetzungen für die Vergabe von Leistungspunkten  
+Erbringung von Studienleistungen ; Bestehen der Modulprüfung.  
+8 Verwendung des Moduls (in anderen Studiengängen)  
+Das Modul wird auch im Masters tudiengang  Linguistik angeboten.  
+9 Stellenwert der Modulnote für die Fachn ote 
+Die Modulnote geht nicht in die Fachnote ein.  
+10 Modulbeauftragte/r  
+Professur für Sprachliche Informationsverarbeitung  
+11 Sonstige Informationen  
+Ergänzungsmodul 2: Digital Humanities  
+Kennnummer  Workload  Leistungs -
+punkte  Studien -
+semester  Häufigkeit des 
+Angebots  Dauer  "
+16,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 11  4130BMFE 2a 360 h 12 LP  1.-3. WiSe  2 Semester  
+1 Lehrveranstaltungen  
+a) Kolloquium - Der aktuelle Stand der Digital 
+Humanities  (WiSe)  
+b) Übung -Probleme der Digital Humanities  
+(WiSe)  
+c) Übung  - Techniken der Digital Humanities  
+(SoSe)  
+d) Modulprüfung  (Mündlich: Referat ) Kontaktzeit  
+30 h 
+ 
+30 h 
+ 
+30 h Selbststudium  
+60 h 
+ 
+60 h 
+ 
+60 h 
+90 h  
+2 Ziele des Moduls und zu erwerbende Kompetenzen  
+Die Studierenden gewinnen  einen umfassenden Überblick über den internationalen Forschungsbereich 
+der „Digital Humanities “ (DH). Sie erwerben damit die Befähigung, aktuelle Fragestellungen , Probleme 
+und Entwicklungen sowohl aus den traditionellen Geisteswissenschaften in ihrer dig italen 
+Transformation als auch aus den DH als eigener Disziplin zu identifizieren und in den übe rgeordneten 
+Kontext einzuordnen. Über eigene kleinere exemplarische Projekte lernen sie außerdem, bestehende 
+Ansätze zu evaluieren, neue Ansätze zu entwickeln, geeignete Datenstrukturen zu modellieren und 
+mögliche Lösungen zu operationalisieren und zu form alisieren. Dadurch w ird der ganze Arbeitsprozess 
+eines „Digital Humanist“ von der Problemstellung bis hin zur Beantwortung von Forschungsfragen 
+simuliert und entsprechende  organisatorische (Planung, Strukturierung , Teamarbeit ), operative 
+(Recherche, Evaluation, Anwendung), konzeptionelle  (Modellierung) und technische (Formalisierung) 
+Fähigkeiten eingeübt und die Anschlussfähigkeit der eigenen Arbeiten an das globale Forschungsfeld 
+der DH sichergestellt . 
+3 Inhalte des Moduls  
+Das Modul bietet eine Ein führung in Entwicklung, aktuelle Probleme und bestehende Praktiken der 
+Digital Humanities. Das Kolloquium  gibt eine Einführung in den Gegenstand, die Geschichte und 
+aktuelle Probleme der DH als Transformator der bestehenden geisteswissenschaftlichen Diszip linen 
+und als eigenständiger, stark internati onal ausgerichteter Disziplin. Die Übungen greifen einzelne 
+Schwerpunktbereiche der DH (wie sie von einzelnen Gegenständen, Themen oder 
+Fachwissenschaften aufgeworfen werden) auf und gehen von der Bestandsaufnah me über die 
+konzeptionelle Durchdringung zur Entwicklung eigener Lösungsansätze über. Diese werden in den 
+Übung en praktisch umgesetzt.  
+4 Lehr - und Lern formen  
+Kolloquium , Übun g 
+5 Modulvoraussetzungen  
+Keine  
+6 Form der Modulprüfung  
+Mündliche Prüfung: Referat (30 Min.),  Präsentation und Verteidigung der Lösung eines Digital 
+Humanities Projekts, sowohl auf der konzeptuellen, als auch auf der praktischen Ebene.  
+7 Voraussetzungen für die Vergabe von Leistungspunkten  
+Erbringung von Studienleistungen , Dokum entation der eigenen / teamorientierten konzeptionellen und 
+praktischen Arbeiten , Bestehen der Modulprüfung  
+8 Verwendung des Moduls (in anderen Studiengängen)  
+- "
+17,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 12   9 Stellenwert der Modulnote für die Fachn ote 
+Die Modulnote geht nicht in die Fachnote ein.  
+10 Modulbeauftragte/r  
+Juniorprofessur für Digital Humanities (CCeH)  
+11 Sonstige Informationen  
+Ergänzungsmodul  3: Visuelle Programmierung  
+Kennnummer  Workload  Leistungs -
+punkte  Studien -
+semester  Häufigkeit des 
+Angebots  Dauer  
+4130BMFEM3  360 h  12 LP  1.-3. WiSe  2 Semester  
+1 Lehrveranstaltungen  
+a) Vorlesung  I im WS : „Computergraphik und 
+Visualisierung I“  
+b) Vorlesung II im SS : „Computergraphik und 
+Visualisierung II“  
+c) Übung  I im WS : „Übungen zu 
+Computergraphik und Visualisierung I“  
+d) Übung II im SS : „Übungen zu 
+Computergraphik und Visualisierung II“  
+d) Modulprüfung  (Schriftlich: Klausur)  Kontaktzeit  
+30 h 
+30 h 
+15 h 
+15h Selbststudium  
+60 h 
+60 h 
+30 h 
+30 h 
+90 h  
+2 Ziele des Moduls und zu erwerbende Kompetenzen  
+Die Absolvent Innen  sind in der Lage, Probleme  mittlerer Komplexität in der visuellen Programmierung 
+selbständig zu formalisieren und entsprechende Softwaremodule zu entwerfen.  
+3 Inhalte des Moduls  
+Die Vorlesung ""Computergraphik und Visualisierung"" wird in 2 konsekutiven  Semestern jeweils durch 
+eine einstündige Übung ergänzt.  
+Teil I befasst sich mit (3D -)Computergrafik und Mensch -Maschine -Kommunikation. Die Vorlesung 
+betrachtet Aspekte menschlicher Wahrnehmung und führt grafische Ausgabegeräte und Farbsysteme 
+ein. Aufbauend auf rasterbasierter 2D -Grafik werden Interaktionstechniken und grafische 
+Benutzeroberflächen erläutert . Mit der 3D -Computergraf ik werden Objekte, Projektionen, 
+Verdeckungen, Beleuchtung sowie Szenengraphen eingeführt.  
+Teil II führt den Begriff Visualisierung ein, de r in Informatio nsvisualisierung  und Visualisierung 
+wissenschaftlicher Daten gegliedert wird. Ausgehend von der Visualisierungspipeline sowie 
+wissenschaftlicher Datentypen wird die Filterung bzw. Rekonstruktion von Daten behandelt, die 
+Abbildung von Daten auf visuelle Rep räsentati onen als zentrales Konzept ein führt und an konkreten 
+Algorithmen aus geführt. Volumen -Rendering als alternative Methode und virtuelle Realität werden 
+ergänzend betrachtet.  
+4 Lehr - und Lern formen  
+Vorlesung, Übung  
+5 Modulvoraussetzungen  "
+18,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 13   keine  
+6 Form der Modulprüfung  
+Schriftliche Prüfung: Klausur  (180 Min)  
+7 Voraussetzungen für die Vergabe von Leistungspunkten  
+Erbringung von Studienleistungen , Bestehen der Modulprüfung . 
+8 Verwendung des Moduls (in anderen Studiengängen)  
+Dieses Modul wird auch im Verbundm asters tudiengang Medienwissenschaft, W ahlpflichtfach 
+Medieninformatik  angeboten.  
+9 Stellenwert der Modulnote für die Fachn ote 
+Die Modulnote geht nicht in die Fachnote ein.  
+10 Modulbeauftragte/r  
+Professur für Informatik  
+11 Sonstige Informationen  
+Ergänzungsmodul  4: Informatik I  
+Kennnummer  Workload  Leistungs -
+punkte  Studien -
+semester  Häufigkeit des 
+Angebots  Dauer  
+5751BMFEM4  360 h  12 LP  1.-3. WiSe  2 Semester  
+1 Lehrveranstaltungen  
+a) Vorlesung  
+b) Übung  
+c) Modulprüfung  (Schriftlich: Klausur)  Kontaktzeit  
+60 h 
+30 h 
+ Selbststudium  
+120 h 
+60 h 
+90 h  
+2 Ziele des Moduls und zu erwerbende Kompetenzen  
+Die Studierenden können grundlegende Algorithmen konzipieren und evaluieren sowie diese in Hinblick 
+auf Korrektheit und Laufzeitverhalten in Abhängigkeit von Datenstrukturen analysieren.  
+3 Inhalte des Moduls  
+Die Vorlesung wendet sich an Studierende der Mathematik, Wirtschaftsmathematik, 
+Naturwissenschaften, Wirtschaftsinformatik, Medieninformatik, Linguistik und anderer Fächer aus der 
+Philosophischen Fakultät mit Anforderungen an Strukturwissen mit algorithmis chem Bezug. Nach einer 
+Einführung in die Informatik sowie den Aufbau und die Funktionsweise von Computern liegt der 
+Schwerpunkt im Bereich der Algorithmen und Datenstrukturen. Dies umfasst den Entwurf von 
+Algorithmen und Datenstrukturen und deren Analyse i n Bezug auf Korrektheit sowie Zeit - und 
+Speicherplatzbedarf. Die eingeführten Datenstrukturen umfassen Listen, Stapel, Schlangen, Haufen 
+und (balancierte) Bäume. Schwerpunkte der Vorlesung liegen in Sortier - und Suchverfahren, der 
+effizienten Manipulation endlicher Mengensysteme sowie einfachen Graphenalgorithmen wie der 
+Berechnung minimaler aufspannender Bäume und  kürzester Wege in Straßennetzen , wie sie etwa in 
+der mobilen Navigation benutzt werden.  
+4 Lehr - und Lern formen  
+Vorlesung , Übung  "
+19,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 14   5 Modulvoraussetzungen  
+Keine 
+6 Form der Modulprüfung  
+Schriftliche Prüfung: Klausur (180 Minuten)  
+7 Voraussetzungen für die Vergabe von Leistungspunkten  
+Erbringung von Studienleistungen , Bestehen der Modulprüfung . 
+8 Verwendung des Moduls (in anderen Studiengängen)  
+Das Modul wird auch in den  Bachelorstudiengängen Wirtschaftsi nformatik , Wirtschaftsmathematik 
+und Mathematik  angeboten.  
+9 Stellenwert der Modulnote für die Fachn ote 
+Die Modulnote geht nicht in die Fachnote ein.  
+10 Modulbeauftragte/r  
+Professur für Informatik  
+11 Sonstige Informationen  
+Ergänzungsmodul  5: Archäoinformatik  
+Kennnummer  Workload  Leistungs -
+punkte  Studien -
+semester  Häufigkeit des 
+Angebots  Dauer  
+4436BMFEM5  360 h  12 LP  1.-3. WiSe  2 Semester  
+1 Lehrveranstaltungen  
+a) Proseminar  
+b) Proseminar  
+c) Übung  
+d) Modulprüfung  (schriftlich)  Kontaktzeit  
+30 h 
+30 h 
+30 h Selbststudium  
+60 h 
+60 h 
+60 h 
+90 h  
+2 Ziele des Moduls und zu erwerbende Kompetenzen  
+Die Absolvent Innen  sind in der Lage, Probleme der Verwaltung archäologischer Daten und ihrer 
+Analyse durch den Entwurf und die Implementation geeigneter Informationssysteme zu lösen.  
+3 Inhalte des Moduls  
+Das Modul  vermittelt mit wechselnden Schwerpunkten die Archäoinformatik in ihrer ganzen Breite. 
+Diese Schwerpunkte liegen in de r Verwaltung multimedialer Daten in komplexen Datenbanken, der 
+Dokumentation komplexer Befunde in geographischen Informationssystemen und ihre r Analyse  in 
+diesen Informationssystemen  sowie der  Handhabung von 3D Modellen zur Darstellung und Analyse 
+von Grab ungsbefunden und der archäologischen Rekonstruktion. Besonderes Gewicht wird dabei auf 
+die Möglichkeiten zur Verbindung mehrerer der hier angespro chenen Basistechnologien gelegt . 
+4 Lehr - und Lern formen  
+Seminar , Übung  
+5 Modulvoraussetzungen  "
+20,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 15   Keine  
+6 Form der Modulprüfung  
+Schriftliche Prüfung: Hausarbeit  (18.000  Zeichen ) 
+7 Voraussetzungen für die Vergabe von Leistungspunkten  
+Erbringung von Studienleistungen , Bestehen der Modulprüfung  
+8 Verwendung des Moduls (in anderen Studiengängen)  
+Das Modul wird auch im M asters tudiengang  Archäologie  angeboten.  
+9 Stellenwert der Modulnote für die Fachn ote 
+Die Modulnote geht nicht in die Fachnote ein.  
+10 Modulbeauftragte/r  
+Professur für Archäoinformatik  
+11 Sonstige Informationen  
+Ergänzungsmodul  6: Empirische Methoden  
+Kennnummer  Workload  Leistungs -
+punkte  Studien -
+semester  Häufigkeit des 
+Angebots  Dauer  
+4554TM XAM1  360 12 LP 1.-3. Sem.  WiSe/SoSe  1-2 Semester  
+1 Lehrveranstaltungen  
+Es werden wahlweise 3 Veranstaltungen aus 
+a – d besucht  
+ODER  
+Eine Veranstaltung aus a – c und e.  
+a) Vorlesung Empirische Methoden  
+b) Seminar Empirische Methoden 1  
+c) Seminar Empirische Methoden 2  
+d) Projekt  Empirische Methoden A  
+ 
+e) Projekt  Empirische Methoden B  
+ 
+f) Modulprüfung (schriftlich)  Kontaktzeit  
+ 
+ 
+ 
+ 
+30 h 
+30 h 
+30 h 
+30 h 
+ 
+60 h Selbststudium  
+ 
+ 
+ 
+ 
+60 h 
+60 h 
+60 h 
+60 h 
+ 
+120 h  
+ 
+90 h  
+2 Ziele des Moduls und zu erwerbende Kompetenzen  
+Das Modul dient der Vertiefung und Ausweitung der Kenntnisse der empirischen Grundlagen der 
+Linguistik, wobei insbesondere methodische Aspekte im Fokus stehen. Die Studierenden erhalten eine 
+systematische Übersicht über die die gegenwärtige Linguistik kennzeichnende Methodenvielfalt und 
+können diese theoretisch einordnen. Sie erhalten des Weiteren die Gelegenheit, linguistische 
+Datenerheb ung in mindestens einer der drei methodischen Hauptvarianten (Sprecher Innen befragung, 
+Experiment, Korpuserstellung und -auswertung) praktisch zu erproben.  "
+21,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 16   3 Inhalte des Moduls  
+Linguistik als empirische Disziplin: Welche Evidenzformen gibt es, welche Evide nz ist für welche 
+Fragestellungen besonders relevant? Welche kognitiven, sozialen und situativen Faktorenbeeinflussen 
+sprachliches Verhalten und sind bei der Erhebung von linguistischen Daten in Rechnung zu stellen?  
+Die wichtigsten Erhebungsmethoden: Sprecher Innen befragung, linguistische Experimente , 
+Korpuserstellung und -annotation (Schriftsprache, Spontansprache (Audio/Video), historische Korpora, 
+Lexika).  
+Die wichtigsten Aufbereitungs - und Auswertungsverfahren: statistische Verfahren, Datenbanken, 
+(computergestützte) Auszeichnung (Annotation), qualitative Analysen.  
+4 Lehr - und Lernformen  
+Die Vorlesung bietet einen systematischen Überblick über aktuelle Methoden und deren Vor - und 
+Nachteile und ordnet die gegenwärtig praktizierten Methoden historisch ein. In den Seminaren werden 
+der theoretische Hintergrund und die Leistungsfähigkeit versch iedener Methoden auf der Grundlage 
+einschlägiger Artikel kritisch reflektiert. Des Weiteren werden bestehende Datensammlungen (Korpora, 
+Datenbanken) vorgestellt und das praktische Arbeiten damit geübt. Projekte  dienen der praktischen 
+Erprobung von Datenerh ebungsmethoden (z.  B. Mitarbeit bei der Durchführung eines Experiments, 
+Datenextraktion aus Korpora, Feldforschung, Statistikkurs). Neben Lektüre werden für die Erbringung 
+von Studienleistungen  kurze Referate, Moderation der Seminardiskussion, Teilnahme an  einer 
+Gruppenarbeit und/oder Berichte erwartet.  
+5 Modulvoraussetzungen  
+Keine  
+6 Form der Modulprüfung  
+Schriftliche Prüfung: Hausarbeit ( 18.000 Zeichen ), die entweder im Anschluss an eine Übung die 
+Ergebnisse der Datenerhebung zusammenfasst oder eine datenbezogene Fragestellung aus einem 
+Seminar behandelt.  
+7 Voraussetzungen für die Vergabe von Leistungspunkten  
+Erbringung von Studienleistungen , Bestehen der Modulprüfung  
+8 Verwendung des Moduls (in anderen Studiengängen)  
+Wahlp flichtmodul; das Modul wir d auch im Zwei -Fach -Master studium  Linguistik und Phonetik 
+angeboten.  
+9 Stellenwert der Modulnote für die Fachnote  
+Die Modulnote geht nicht in die Fachnote ein.  
+10 Modulbeauftragte/r  
+Professur für Phonetik  
+11 Sonstige Informationen  
+Ergänzungsmodul  7: Forschungspraktikum  
+Kennnummer  Workload  Leistungs -
+punkte  Studien -
+semester  Häufigkeit des 
+Angebots  Dauer  
+4130BMFEM7  360 h  12 LP  1.-3. WiSe/SoSe  1 Semester  "
+22,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 17   1 Lehrveranstaltungen  
+a) Praktikum  
+b) Modulprüfung  (Bericht)  Kontaktzeit  
+ Selbststudium  
+320 h 
+40 h  
+2 Ziele des Moduls und zu erwerbende Kompetenzen  
+Absolvent Innen des  Praktikums haben die Anforde rungen des Berufsalltags kennen gelernt. Sie sind in 
+der Lage, ihre im Studium erworbenen Kompetenzen gewinnbringend in der Praxis, auch außerhalb 
+universitärer Strukturen, umzusetzen.  
+3 Inhalte des Moduls  
+Teil des Masterstudiengangs Informationsverarbeitung ist ein studienbegleitendes 
+Forschungsprak tikum im Umfang von mindestens 8  Wochen. Mit dem Praktikum erbringen die 
+Studierenden den Nachweis, dass sie die im Studium erworbenen Kompetenzen in der Praxis 
+anwenden können. Forschungspraktika können beispielsweise in öffentlichen und privaten 
+Forschungseinrichtungen, in europäischen Institutionen und – mit Schwerpunkt in angewandter 
+Forschung – in der IT -Industrie geleistet werden. Die im Praktikum gewonnenen Erfahrungen sollen 
+einerseits die berufliche Qualifikation verbessern und den Berufseinstieg erleichtern, andererseits 
+nutzbringend in die Lehrveranstaltungen des Abschlussjahres eingebracht wer den. 
+4 Lehr - und Lern formen  
+Praktikum  
+5 Modulvoraussetzungen  
+Keine  
+6 Form der Modulprüfung  
+Schriftliche  Prüfung: Praktikumsbericht  (2500 -3000 Zeichen ) 
+7 Voraussetzungen für die Vergabe von Leistungspunkten  
+Praktikumsnachweis und Bericht , vom Anbieter der Praktikum sstelle  unters chrieben.  
+8 Verwendung des Moduls (in anderen Studiengängen)  
+- 
+9 Stellenwert der Modulnote für die Fachn ote 
+Die Modulnote geht nicht in die Fachnote ein.  
+10 Modulbeauftragte/r  
+Geschäftsführende/r Direktor In des veranstaltenden Instituts  
+11 Sonstige Informationen  
+Ergänzungsmodul  8: Mobilität  
+Kennnummer  Workload  Leistungs -
+punkte  Studien -
+semester  Häufigkeit des 
+Angebots  Dauer  
+4130BMFEM8  360 h  12 LP  1.-3. Jedes 
+Semester  1 Semester  
+1 Lehrveranstaltungen  Kontaktzeit  Selbststudium   "
+23,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 18   
+2.4 Master arbeit Anerkennung von Lehrveranstaltungen aus 
+dem Ausland  Variabel  
+ Variabel  
+ 
+2 Ziele des Moduls und zu erwerbende Kompetenzen  
+In dieser Variante können Studierende sich an eine andere, möglichst ausländische Hochschule ihrer 
+Wahl begeben und dort ein Semester absolvieren. Neben der Vermittlung v on Fachkompetenzen liegt 
+in EM 8  der Schwerpunkt auf der Erweiterung der Selbstkompetenz der Studierenden, was durch die 
+eigenständige Ergänzung  des Studienprogramms, eigenverantwortliches A rbeiten, die Entfaltung 
+individueller Forschungsinteressen und den Erwerb von relevanten Sprach - und Fachkenntnissen im 
+Ausland umgesetzt wird.  
+3 Inhalte des Moduls  
+Dieses Modul ist in erster Linie als Mobilitätsmodul für die Anerkennung von zusätzlichen  im Ausland 
+erworbenen Studienleistungen nutzbar. Über die ERASMUS+-Partnerschaften des Instituts erhalten die 
+Studierenden die Möglichkeit, neben dem Erlernen bzw. Vertiefen einer Fremdsprache, Einblicke in 
+eine andere Kultur und Gesellschaft zu bekommen und Kontakte zu einem neuen (akademischen) 
+Umfeld zu knüpfen.  
+4 Lehr - und Lernformen  
+Entsprechend dem Angebot an der Gastuniversität.  
+5 Modulvoraussetzungen  
+Keine  
+6 Form der Modulprüfung  
+gemäß Prüfung im Ausland  
+7 Voraussetzungen für die Vergabe von Leistungspunkten  
+Nachweise der Gastuniversität über wissenschaftspraktischer Aktivität im Umfang von 12 LP. Nachweis 
+über die Teilnahme an einem vorbereitenden sowie abschließenden Gespräch zur Absprache und 
+Anerkennung der eigenständigen Studien bei den P rofessor Innen des Instituts.  
+8 Verwendung des Moduls (in anderen Studiengängen)  
+Wahlpflichtmodul  
+9 Stellenwert der Modulnote für die Fachnote  
+Die Modulnote geht nicht in die Berechnung der Fachnote ein.  
+10 Modulbeauftragte/r  
+Geschäftsführende/r Direktor In des veranstaltenden Instituts  
+11 Sonstige Informationen  
+Weitere im Ausland erbrachte Leistungen können und sollen in den weiteren Modulen des 
+Studienfachs anerkannt werden. Auch dies ist beim vorbereitenden Gespräch abzuklären.  
+Modul Masterarbeit  
+Kennnummer  Workload  Leistungs -
+punkte  Studien -
+semester  Häufigkeit des 
+Angebots  Dauer  "
+24,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 19  4554BMF1MA  900 h  30 LP  4. Sem.  WiSe/SoSe  1 Semester  
+1 Lehrveranstaltungen  
+ 
+Schriftliche Prüfung: Masterarbeit  Kontaktzeit  
+ 
+ Selbststudium  
+ 
+900 h   
+2 Ziele des Moduls und zu erwerbende Kompetenzen  
+Ziel des Moduls ist die erfolgreiche Durchführung der Masterarbeit.  Sie dient dem Nachweis, dass der 
+Prüfling dazu in der Lage ist, ein thematisch begrenztes Problem aus dem Gegenstandsbereich des 
+Studiums mit den erforderlichen Methoden in einem festgele gten Zeitraum wissenschaftlich zu 
+bearbeiten und zu reflektieren. Sie kann in jedem Studienbereich angefertigt werden.  
+Die Studierenden erwerben die Kompetenz zur eigenständigen Konzeption und Durchführung eines 
+klar umrissenen, überschaubaren Forschungsv orhabens im Kontext intensiver Beratung und 
+Begleitung. Sie erweitern ihre methodischen Kompetenzen und festigen ihre fachwissenschaftlichen 
+Fertigkeiten zur anforderungsgerechten Darstellung komplexer Forschungsinhalte.  
+3 Inhalte des Moduls  
+Die Masterarbeit soll den Abschluss des Masterstudiums  bilden .  Das Modul umfasst die Entwicklung 
+und Durchführung der Masterarbeit in allen Schritten. Hierzu zählen u.a. die Themenfindung im 
+Abgleich zur aktuellen Forschung, die Skizzierung des Vorhabens unter klarer Reflexion der 
+verwendeten Methodik sowie, die systematische und strukturierte Durchführung im gegebenen 
+Zeithorizont. Der Bear beitungszeitraum beträgt 26 Wochen; als Umfang sind 60 Seiten vorgesehen . 
+Informationen zur formalen Durchführung der  Masterarbeit entnehmen Sie bitte den Regelungen in der 
+Prüfungsordnung für die Masterstudiengänge.  
+4 Lehr - und Lern formen  
+Masterarbeit  
+5 Modulvoraussetzungen  
+Abschluss der Aufbaumodule 1 und 2, Nachweis der geforderten Sprachkenntnisse (Englisch B2 G eR 
+und weitere Fremdsprache A2 G eR) 
+6 Form der Modulprüfung  
+Masterarbeit  
+7 Voraussetzungen für die Vergabe von Leistungspunkten  
+Bestehen der Modulprüfung  
+8 Verwendung des Moduls (in anderen Studiengängen)  
+Pflichtmodul  
+9 Stellenwert der Modulnote für die Fachnote  
+Die Note der Masterarbeit  bildet 1/3 der Gesamtnote.  
+10 Modulbeauftragte/r  
+Geschäftsführende/r Direktor In des veranstaltenden Instituts  
+11 Sonstige Informationen  
+Die Masterarbeit ist mit einem der beiden belegten Spezialisierungsmodule assoziiert. SM -1 setzt dabei 
+den Schwerpunkt im Bereich Sprachliche Informationsverarbeitung, SM -2 im Bereich Historisch -
+Kulturwissenschaftliche Informationsverarbeitung. Die Arbeite n sind stets empirisch orientiert. Die "
+25,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 20   Masterarbeit besteht aus einer schriftlichen Darlegung und aus Softwarekomponenten. Richtwert für 
+den Umfang der Arbeit sind 60 Seiten.  
+Die Masterarbeit im Schwerpunkt Sprachliche Informationsverarbeitung hat die wiss enschaftliche 
+Bearbeitung einer linguistischen Fragestellung und deren computerlinguistische Lösung zum 
+Gegenstand. Die computerlinguistische Lösung beinhaltet auch eine praxisorientierte Umsetzung. Ihr 
+Fokus ist der Einsatz informationstechnologischer Sys teme zur Gewinnung und zur Sicherung 
+wissenschaftlicher Erkenntnisse. Informationstechnologische Systeme werden in diesem 
+Zusammenhang verstärkt für Simulationen, für Selbstorganisation und für Verifikation eingesetzt. Die 
+linguistischen Fragestellungen si nd offen; daher sind vor dem Hintergrund begrenzter zeitlicher 
+Ressourcen bei der Erstellung der Masterarbeit Schnittstellen zu anderen Komponenten zu definieren.  
+Die Masterarbeit im Schwerpunkt Historisch -Kulturwissenschaftliche Informationsverarbeitung zeigt die 
+Fähigkeit des Kandidaten / der Kandidatin, ein fachliches Problem so zu formalisieren, dass es mit den 
+Mitteln der Informationstechnologie bearbeitet werden kann. Hierbei kann die ganze Breite der 
+Informationstechnik berücksichtigt werden. Arbeit en, die sich auf Bereiche der Techniken beziehen, die 
+im Studium nicht explizit vermittelt wurden, sind deshalb denkbar und wünschenswert. In der Regel 
+wird erwartet, dass die Praktikabilität der vorgeschlagenen Herangehensweise durch eine 
+funktionsfähige „proof of concept “-Lösung demonstriert wird. Eine theoretische Darstellung, die 
+aufgrund ihres Abstraktionsgrades oder ihrer Komplexität im Rahmen einer Masterarbeit nicht technisch 
+überprüft werden kann, kann sehr wohl ein geeignetes Thema für eine rein t heoretische Darlegung 
+sein; eine rein praktische, nicht aufgrund der Herleitung verallgemeinerte technische Lösung eines 
+isolierten Einzelproblems dagegen nicht. Die Themenstellung besteht also aus einem abstrakten 
+inhaltlichen Problem aus einem historisch - kulturwissenschaftlichen Fach, die Arbeit in der Regel aus 
+einer Beschreibung der zur Formalisierung zur Verfügung stehenden Technologien, einer begründeten 
+Wahl derselben und der Umsetzung an einem praktischen Beispiel.  
+Während Themenstellungen für Mast erarbeiten denen für Bachelorarbeiten ähne ln können, sind sie 
+stets wesentlich weniger präzise, da die Präzisierung eines allgemeinen zu einem konkret umsetzbaren 
+Problem und die Wahl des geeigneten Lösungsweges auf diesem Niveau eine Kernqualifikation 
+darstellen.  "
+26,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 21  3 Studienhilfen  
+3.1 Exemplarischer Musterstudienplan für den MA Informationsverarbeitung  
+ 
+Es wird empfohlen, für den Ergänzungsbereich (inklusive des verpflichtenden Praktikums) die ersten drei 
+Semester zu nutzen.  
+  Semes
+ter Module  Σ LP  
+1. 
+Sem.  AM1 Einführung in die 
+Sprachliche 
+Informationsverarbeitung  
+Vorlesung  
+Übung  
+Schriftliche Prüfung: Klausur  
+9 LP  SM1 Verarbeitung 
+von Textdaten  
+Hauptseminar  
+Übung  SM2 Verarbeitung 
+mehrdimensionaler 
+Daten  
+Hauptseminar  EM2 Digital 
+Humanities  
+Kolloquium  
+Übung  Ca. 33 
+2. 
+Sem.  AM2 Einführung in die 
+Historisch -
+Kulturwissenschaftliche 
+Informationsverarbeitung  
+Vorlesung  
+Übung  
+Schriftliche Prüfung: Klausur  
+9 LP  Kolloquium  
+Ausarbeitung einer 
+Softwarelösung inkl. 
+Dokumentation und 
+Präsentation  
+18 LP Übung  
+Kolloquium  
+Ausarbeitung einer 
+Softwarelösung inkl. 
+Dokumentation und 
+Präsentation  
+18 LP Übung  
+Mündliche Prüfung: 
+Referat  
+12 LP  Ca. 33 
+3. 
+Sem.  EM7 Praktikum  
+Praktikum  
+Schriftliche Prüfung: Bericht  
+12 LP  EM1 Künstliche Intelligenz  
+Proseminar  
+Proseminar  
+Übung  
+Mündliche Prüfung: Referat  
+12 LP  24 
+4. 
+Sem.  Masterarbeit  
+30 LP 30 "
+27,"MODULHANDBUCH  - INFORMATIONSVERARBEITUNG  - EIN-FACH -MASTER OF ARTS  
+ 
+ 22  3.2 Fach - und Prüfungsberatung  
+Im Masterstudium Informationsverarbeitung ist eine Studienberatung zu 
+Studienbeginn vorgesehen .  
+Für die Auskunfterteilung  in allen prüfungsrechtlichen Angelegenheiten ist die Stelle 
+Prüfungsrecht im Dekanat der Philosophischen Fakultät zuständig.   
+https://phil -fak.uni -koeln.de/fakultaet/pruefungsrecht . 
+ 
+3.3 Weitere Informations - und Beratungsangebote  
+Die Inanspruchnahme von weiteren individuellen Studienberatungen wird dringend 
+empfohlen, beispielsweise auch fachübergreifende Angebote der Philosophischen 
+Fakultät.  
+Weitere Informationen und aktuelle Mittei lungen können über die Internetseite 
+abgerufen werden: http://www.hki.uni -koeln.de/studienberatung  
+ "
